@@ -1,0 +1,19 @@
+*{
+    text-decoration: none;
+    list-style-type: none;
+    font-size: 20px;
+}
+.nav_link{
+    font-size: 25px;
+    top:20px;
+    background-color: lightgray;
+    display: flex;
+    justify-content: center;
+}
+.nav_link li{
+    padding: 0 20px;
+}
+/* *{
+    text-decoration: none;
+    list-style-type: none;
+} */
