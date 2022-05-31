@@ -119,6 +119,8 @@ class Home extends Component {
         );
   }
 }
+
+// minh ngu
 export default Home;
  
 
