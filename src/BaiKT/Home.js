@@ -121,6 +121,7 @@ class Home extends Component {
 }
 
 // minh ngu
+// minh ngu 2
 export default Home;
  
 
